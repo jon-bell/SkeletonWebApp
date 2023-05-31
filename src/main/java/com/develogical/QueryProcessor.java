@@ -6,7 +6,7 @@ public class QueryProcessor {
 
     System.out.println("Received query:" + query);
     if(query.toLowerCase().contains("your name?")){
-      return "Jon";
+      return "Jon2";
     }
 
     if (query.toLowerCase().contains("shakespeare")) {
