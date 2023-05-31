@@ -10,7 +10,6 @@ public class IndexPage extends HtmlPage {
         "<h1>Welcome!</h1>"
             + "<p>Please enter your query in the box below: "
             + "<form><input type=\"text\" name=\"q\" />"
-                + "Hello, world!"
             + "<input type=\"submit\">"
             + "</form>"
             + "</p>");
